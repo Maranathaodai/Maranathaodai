@@ -11,7 +11,7 @@
 <br />
 
 <p align="center">
-  <img src="p-logo.png" alt="My Logo" style="vertical-align: middle; width: 100px; border-radius:50%;"> 
+  <img src="My logo.jpg" alt="My logo" style="vertical-align: middle; width: 100px; border-radius:50%;"> 
 </p>
 <h3 align="center">Maranatha Okeley Odai</h3>
 <p align="center"> || Full-stack Engineer || </p>
