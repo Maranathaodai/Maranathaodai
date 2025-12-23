@@ -14,7 +14,7 @@
   <img src="My logo.jpg" alt="My logo" style="vertical-align: middle; width: 100px; border-radius:50%;"> 
 </p>
 <h3 align="center">Maranatha Okeley Odai</h3>
-<p align="center"> || Full-stack Engineer || </p>
+<p align="center"> || Full-stack Engineer || Generative AI Engineer </p>
 
 <div align="center">
   
@@ -43,7 +43,7 @@ I’m a full-stack engineer with 3+ years of experience building cross-platform 
 
 ## Education
 
-**University of Ghana, Legon** — BSc Computer Science & Statistics (Graduating Sep 2025)  
+**University of Ghana, Legon** — BSc Computer Science & Statistics (Graduating Sep 2026)  
 Relevant coursework: OOP & Data Structures, UNIX, Databases (SQL), Software Engineering, Agile, AI/ML , Data Analytics
 
 
